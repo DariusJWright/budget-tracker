@@ -18,3 +18,6 @@ An installable app designed to help track spending
 
 ## Installation
 Visit deployed site with Chrome, and click the + on the address bar.
+
+## Screenshot
+![budget-screenshot](https://user-images.githubusercontent.com/64335245/94721484-8e388080-031b-11eb-8674-eb9baa9c422d.PNG
